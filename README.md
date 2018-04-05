@@ -1,7 +1,7 @@
 # Update-notification
 
 for apps which won't be published on the AppStore 
-<kbd>Swift 3.2 & up</kbd>   <kbd>IOS 9 & up</kbd>   <kbd>version: 0.1</kbd>
+<kbd><red>Swift 3.2 & up</red></kbd>   <kbd>IOS 9 & up</kbd>   <kbd>version: 0.1</kbd>
 
 ![Example](https://github.com/dovydasbereisa/Update-notification/blob/master/Example.png?raw=true)
 
@@ -17,7 +17,7 @@ for apps which won't be published on the AppStore
   
   
 # How to install Update-notification:
-1. Download *Check for update.swift* [Download](https://github.com/dovydasbereisa/Update-notification/archive/master.zip)
+1. Download *"Check for update.swift"* [Download project files](https://github.com/dovydasbereisa/Update-notification/archive/master.zip)
 2. Drag It to your Project
 3. Use <kbd>cmd⌘</kbd> + <kbd>B</kbd> to build the project
 
