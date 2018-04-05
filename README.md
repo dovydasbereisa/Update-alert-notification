@@ -58,3 +58,14 @@ Swift 3.2 &amp; up, IOS9 &amp; up, update notification for app which won't be pu
     }
 ```
 
+# A Couple of Pointers:
+1. More information of what every command does will be listed in the *Check for update.swift* file
+
+2. If you use a different View controller where the notification will appear then, don't forget to do `Update_Check.Use_diferent_View_controller = YourViewController()`, the default is ViewController()
+
+3. Every command is prefilled, so you can just paste inline code- `check_for_update()` in your `viewDidLoad()` to test everything out
+
+# Contact:
+contact me if you find a problem or if you are a developer who whants to chat :D
+Email: dovydasbereisa@gmail.com
+Twitter: @dovydasbere
