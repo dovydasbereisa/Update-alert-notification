@@ -1,7 +1,7 @@
 # Update-notification
 
 for apps which won't be published on the AppStore 
-<kbd><red>Swift 3.2 & up</red></kbd>   <kbd>IOS 9 & up</kbd>   <kbd>version: 0.1</kbd>
+<kbd>Swift 3.2 & up</kbd>   <kbd>IOS 9 & up</kbd>   <kbd>version: 0.1</kbd>
 
 ![Example](https://github.com/dovydasbereisa/Update-notification/blob/master/Example.png?raw=true)
 
