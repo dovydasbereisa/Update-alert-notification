@@ -16,7 +16,7 @@ for apps which won't be published on the AppStore
   
   
 # How to install Update-notification:
-1. Download *Check for update.swift*
+1. Download *Check for update.swift* [Download](https://github.com/dovydasbereisa/Update-notification/archive/master.zip)
 2. Drag It to your Project
 3. Use <kbd>cmd⌘</kbd> + <kbd>B</kbd> to build the project
 
@@ -82,3 +82,7 @@ contact me if you find a problem or if you are a developer who whant's to chat :
 Email: dovydasbereisa@gmail.com
 
 Twitter: [@dovydasbere](https://twitter.com/dovydasbere)
+
+# License
+
+
