@@ -60,6 +60,15 @@ for apps which won't be published on the AppStore
     }
 ```
 
+# Upcoming features
+
+- [x] Pubished the app
+- [ ] IOS 8 Support
+- [ ] CocoaPods support
+- [ ] Carthage support
+- [ ] 15+ Languages
+- [ ] Make it run faster
+
 # A Couple of Pointers:
 1. More information of what every command does will be listed in the *Check for update.swift* file
 
@@ -68,7 +77,7 @@ for apps which won't be published on the AppStore
 3. Every command is prefilled, so you can just paste `check_for_update()` in your `viewDidLoad()` to test everything out
 
 # Contact:
-contact me if you find a problem or if you are a developer who whants to chat :D
+contact me if you find a problem or if you are a developer who whant's to chat :D
 
 Email: dovydasbereisa@gmail.com
 
