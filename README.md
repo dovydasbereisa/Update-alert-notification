@@ -70,4 +70,5 @@ for apps which won't be published on the AppStore
 contact me if you find a problem or if you are a developer who whants to chat :D
 
 Email: dovydasbereisa@gmail.com
+
 Twitter: @dovydasbere
