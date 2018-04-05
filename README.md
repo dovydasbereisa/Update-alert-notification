@@ -85,7 +85,8 @@ Twitter: [@dovydasbere](https://twitter.com/dovydasbere)
 
 # License
 
-![License](https://github.com/dovydasbereisa/Update-notification/blob/master/License.png)
 
-https://opensource.org/licenses/MIT
+<img alt="MIT License" src="https://github.com/dovydasbereisa/Update-notification/blob/master/License.png" width="60em" height="auto/" style="max-width:100%;">
+
+[This project](https://github.com/dovydasbereisa/Update-notification) is licensed under [MIT License](https://opensource.org/licenses/MIT)
 
