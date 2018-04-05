@@ -12,9 +12,19 @@ Swift 3.2 &amp; up, IOS9 &amp; up, update notification for app which won't be pu
 - Swift 3.2 or later
 - Xcode 
   
+  
 # How to install Update-notification:
 1. Download *Check for update.swift*
 2. Drag It to your Project
 3. Use <kbd>cmd⌘</kbd> + <kbd>B</kbd> to build the project
 
+# How to use Update-notification
+
+``` Swift
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view, typically from a nib.
+        check_for_update()
+    }
+```
 
