@@ -2,7 +2,7 @@
 for apps which won't be published on the AppStore 
 <kbd>Swift 3.2 & up</kbd>   <kbd>IOS 9 & up</kbd>
 
-![Example](https://cloud.githubusercontent.com/assets/5456665/13322882/e74f6626-dc00-11e5-921d-f6d024a01eaa.png "GitHub")
+![Example](Update-notification/Example.png "GitHub")
 
 # What you will need:
 - A website which will contain the latest version of your app in plain text[(I Use 000webhost)](https://www.000webhost.com/)
