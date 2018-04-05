@@ -72,4 +72,4 @@ contact me if you find a problem or if you are a developer who whants to chat :D
 
 Email: dovydasbereisa@gmail.com
 
-Twitter: @dovydasbere
+Twitter: [@dovydasbere](https://twitter.com/dovydasbere)
