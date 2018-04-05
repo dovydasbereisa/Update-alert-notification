@@ -85,4 +85,7 @@ Twitter: [@dovydasbere](https://twitter.com/dovydasbere)
 
 # License
 
+![License](https://github.com/dovydasbereisa/Update-notification/blob/master/License.png)
+
+https://opensource.org/licenses/MIT
 
