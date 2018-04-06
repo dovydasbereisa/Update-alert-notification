@@ -31,7 +31,7 @@ One of the siplest update notification classes
         //basics:
         Update_Check.versionOfApp = 0.2
         
-        Update_Check.webisite_containing_current_version = "https://dovydasberei.000webhostapp.com/public.html"
+        Update_Check.webisite_containing_latest_version = "https://dovydasberei.000webhostapp.com/public.html"
         
         check_for_update()
         
