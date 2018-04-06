@@ -67,8 +67,7 @@ One of the siplest update notification classes
 - [ ] IOS 8 Support
 - [ ] CocoaPods support
 - [ ] Carthage support
-- [ ] 15+ Languages
-- [ ] Make it run faster
+- [ ] add a skip version button
 
 # A Couple of Pointers:
 1. More information of what every command does will be listed in the *Check for update.swift* file
