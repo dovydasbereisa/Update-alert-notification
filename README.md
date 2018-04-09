@@ -18,7 +18,7 @@ One of the siplest update notification classes
 </a>
   
 <a href="https://lt.wikipedia.org/wiki/IOS">
-<img border="0" alt="PLATFORM" src="https://img.shields.io/badge/Platform-IOS-lightgrey.svg">
+<img border="0" alt="PLATFORM" src="https://img.shields.io/badge/IOS-9%20%26%20up-yellow.svg">
 </a>
 
 </p>
