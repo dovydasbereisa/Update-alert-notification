@@ -3,13 +3,18 @@
 One of the siplest update notification classes
 <kbd>Swift 3.2 & up</kbd>   <kbd>IOS 9 & up</kbd>   <kbd>version: 0.1</kbd>
 
+<p>
+
 [![Build Status](https://travis-ci.org/dovydasbereisa/Update-alert-notification.svg?branch=master)](https://travis-ci.org/dovydasbereisa/Update-alert-notification)
+  
+  [![LICENSE](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://opensource.org/licenses/MIT)
+  
+  [![SWIFT](img.shields.io/badge/Swift-3.2%20%26%20up-brightgreen.svg)](https://en.wikipedia.org/wiki/Swift_(programming_language))
+ 
+[![PLATFORM](https://img.shields.io/badge/Platform-IOS-lightgrey.svg)](https://lt.wikipedia.org/wiki/IOS)
 
-<img src="https://camo.githubusercontent.com/c0e54a826d90da52e4ee70c63fef3ee61b3ffbd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d6c69676874677265792e737667" alt="GitHub license" data-canonical-src="https://img.shields.io/badge/license-MIT-lightgrey.svg" style="max-width:100%;">
+</p>
 
-<img src="https://camo.githubusercontent.com/ec47502cbe97a29725c6e90256d27a38c594ca43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756167652d7377696674253230342e302d627269676874677265656e2e737667" alt="Swift Version" data-canonical-src="https://img.shields.io/badge/language-swift%204.0-brightgreen.svg" style="max-width:100%;">
-
-<img src="https://camo.githubusercontent.com/ca32f433df5400f5e697a5a94b99871e3a612a24/68747470733a2f2f696d672e736869656c64732e696f2f636f636f61706f64732f702f4661636554696d65566965772e7376673f7374796c653d666c6174" alt="Platform" data-canonical-src="https://img.shields.io/cocoapods/p/FaceTimeView.svg?style=flat" style="max-width:100%;">
 
 ![Example](https://github.com/dovydasbereisa/Update-notification/blob/master/Example.png?raw=true)
 
