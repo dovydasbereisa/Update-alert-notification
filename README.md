@@ -14,7 +14,7 @@ One of the siplest update notification classes
 </a>
   
 <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">
-<img border="0" alt="SWIFT" src="img.shields.io/badge/Swift-3.2%20%26%20up-brightgreen.svg">
+<img border="0" alt="SWIFT" src="https://img.shields.io/badge/Swift-3.2%20%26%20up-brightgreen.svg">
 </a>
   
 <a href="https://lt.wikipedia.org/wiki/IOS">
