@@ -4,14 +4,22 @@ One of the siplest update notification classes
 <kbd>Swift 3.2 & up</kbd>   <kbd>IOS 9 & up</kbd>   <kbd>version: 0.1</kbd>
 
 <p>
+  
+  <a href="https://travis-ci.org/dovydasbereisa/Update-alert-notification">
+<img border="0" alt="Build Status" src="https://travis-ci.org/dovydasbereisa/Update-alert-notification.svg?branch=master">
+</a>
 
-[![Build Status](https://travis-ci.org/dovydasbereisa/Update-alert-notification.svg?branch=master)](https://travis-ci.org/dovydasbereisa/Update-alert-notification)
+<a href="https://opensource.org/licenses/MIT">
+<img border="0" alt="LICENSE" src="https://img.shields.io/cocoapods/l/AFNetworking.svg">
+</a>
   
-  [![LICENSE](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://opensource.org/licenses/MIT)
+<a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">
+<img border="0" alt="SWIFT" src="img.shields.io/badge/Swift-3.2%20%26%20up-brightgreen.svg">
+</a>
   
-  [![SWIFT](img.shields.io/badge/Swift-3.2%20%26%20up-brightgreen.svg)](https://en.wikipedia.org/wiki/Swift_(programming_language))
- 
-[![PLATFORM](https://img.shields.io/badge/Platform-IOS-lightgrey.svg)](https://lt.wikipedia.org/wiki/IOS)
+<a href="https://lt.wikipedia.org/wiki/IOS">
+<img border="0" alt="PLATFORM" src="https://img.shields.io/badge/Platform-IOS-lightgrey.svg">
+</a>
 
 </p>
 
