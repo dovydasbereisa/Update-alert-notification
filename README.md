@@ -1,7 +1,7 @@
 # :mega:Update-alert-notification:mega:
 
 One of the siplest update notification classes
-<kbd>Swift 3.2 & up</kbd>   <kbd>IOS 9 & up</kbd>   <kbd>version: 0.1</kbd>
+<kbd>version: 2018-APRIL9</kbd>
 
 <p>
   
